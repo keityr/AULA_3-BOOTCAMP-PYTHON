@@ -162,14 +162,6 @@
 # for numero in range(1, 11):
 #     print(f'{num} x {numero} = {num * numero}')
 
-numeros = [3, 7, 1, 9, 4, 2]
-soma = 1
-anterior = 0
-for num in numeros:
-    anterior = num
-    soma += num
-
-    print(f"A soma {num} + {anterior} dos elementos da lista é {soma}")
 
 
 
